@@ -8,8 +8,8 @@
   <a href="https://wakatime.com/@25fbf90f-563d-4038-a635-1df11b361fe2">
     <img src="https://wakatime.com/badge/user/25fbf90f-563d-4038-a635-1df11b361fe2.svg?style=flat-square" />
   </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshellcodesniper%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=true" />
+  <a href="https://hitscounter.dev">
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fp4r4d0xb0x&label=Hits%21&icon=github&color=%23198754&message=&style=flat&tz=UTC" />
   </a>
 </p>
 
