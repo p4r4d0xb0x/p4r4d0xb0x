@@ -44,7 +44,7 @@
 ## `$ ls -la ~/trophies`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shellcodesniper&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=12&margin-h=12&column=5&no-bg=true&no-frame=true" />
+  <img src="https://trophy.ryglcloud.net/?username=p4r4d0xb0x&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=12&margin-h=12&column=5&no-bg=true&no-frame=true" />
 </div>
 
 ---
